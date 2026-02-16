@@ -1,10 +1,6 @@
 # RA8-9.-Convertir-la-pr-ctica-de-JSP-a-REST
 Este proyecto es una API REST desarrollada en Java con Spring Boot. Su objetivo es gestionar las entidades de Materias, Resultados de Aprendizaje (RA) y Criterios de Evaluación mediante operaciones CRUD. No incluye cliente frontend, funcionando estrictamente como un servicio backend.
 
-# API REST - Gestión de Materias, RA y Criterios
-
-Este proyecto es una API REST desarrollada en Java con Spring Boot. Su objetivo es gestionar las entidades de Materias, Resultados de Aprendizaje (RA) y Criterios de Evaluación mediante operaciones CRUD. No incluye cliente frontend, funcionando estrictamente como un servicio backend.
-
 ## Estructura del Proyecto
 
 El proyecto sigue una arquitectura estricta basada en el patrón Modelo-Vista-Controlador (MVC), garantizando la separación de responsabilidades:
