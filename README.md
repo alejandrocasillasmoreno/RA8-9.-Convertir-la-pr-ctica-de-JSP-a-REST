@@ -93,7 +93,7 @@ A continuación, se muestran ejemplos de los cuerpos (payloads) en formato JSON 
   "nombre": "Programacion JavaScript"
 }
 
-**2. Crear un nuevo Resultado de Aprendizaje asociado a una Materia (POST a /api/ras)**
+2. Crear un nuevo Resultado de Aprendizaje asociado a una Materia (POST a /api/ras)
 {
   "codigo": "RA1",
   "descripcion": "Desarrollar componentes software en lenguajes de programación estructurada",
@@ -102,7 +102,7 @@ A continuación, se muestran ejemplos de los cuerpos (payloads) en formato JSON 
   }
 }
 
-**3. Crear un nuevo Criterio asociado a un RA (POST a /api/criterios)**
+3. Crear un nuevo Criterio asociado a un RA (POST a /api/criterios)
 {
   "descripcion": "Se ha escrito código fuente legible y documentado",
   "ra": {
